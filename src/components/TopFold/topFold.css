@@ -1,5 +1,5 @@
 .topfold{
-    height: 92vh;
+    height: 102vh;
     overflow: hidden;
 }
 
@@ -11,23 +11,23 @@
 }
 
 .tf-heading{
-    font-size: 72px;
+    font-size: 34px;
     font-weight: 600;
-    line-height: 72px;
+    line-height: 42px;
 }
 
 .tf-descriçao{
-    font-size: 20px;
-    margin: 24px 0px;
+    font-size: 14px;
+    margin: 14px 0px;
 }
 
 .tf-esquerda-btns{
-    margin-top: 36px;
+    margin-top: 16px;
     display: flex;
 }
 
 .tf-esquerda-secondary-btn{
-    margin-left: 36px;
+    margin-left: 24px;
 }
 
 .tf-esquerda-infoStats{
@@ -48,4 +48,46 @@
 .tf-infoItem-label{
     font-size: 14px;
     font-weight: 600;
+}
+
+.tf-direta{
+    display: flex;
+    flex: 1;
+    position: relative;
+}
+
+.tf-direita-diamond{
+    display: flex;
+    flex-wrap: wrap;
+    transform: rotate(45deg);
+}
+
+.tf-r-diamond-item{
+    height: 202px;
+    width: 202px;
+    overflow: hidden;
+    margin: 4px;
+    transform: rotate(-45deg);
+    cursor: pointer;
+    border: 3px solid var(--white);
+    border-radius: 12px;
+}
+
+.tf-r-diamond-item img{
+    height: 202px;
+    object-fit: contain;
+    display: block;
+}
+
+.tf-r-bg-blob{
+    height: 350px;
+    width: 350px;
+    background-color: var(--bg-blob);
+    filter: blur(160.58px);
+    position: absolute;
+    z-index: -99;
+    left: 20%;
+    top: 10%;
+    transform: translate(-50%);
+
 }
