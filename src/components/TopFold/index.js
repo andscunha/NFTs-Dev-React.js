@@ -34,22 +34,22 @@ const TopFold = () => {
           <div className='tf-r-diamond-item' absolute-center>
             <img className='tf-r-diamond-img' 
             alt='diamond-banner' 
-            src='https://i.seadn.io/gcs/files/6ee2b076281e1a98f0d70fea4efe7d84.gif?auto=format&w=128&h=128' />
+            src='https://i.seadn.io/gae/FeqZQ2fAjaNqCrxpz2x9ZlNR9PXAP6Ok-lwnaX6ti-BomzyEKmnslCZorU1-aKWM_zq6Mop7RJHT_YqVEKBXh9PIOEciNlxnQYjl?auto=format&w=1920' />
           </div>
           <div className='tf-r-diamond-item' absolute-center>
             <img className='tf-r-diamond-img' 
             alt='diamond-banner' 
-            src='https://i.seadn.io/gcs/files/f3b11e36be14a5d31c75b19d03996fed.gif?auto=format&w=128&h=128' />
+            src='https://i.seadn.io/gae/15jgVo39FHdYFzjZyyF7pipKqXh8Bgb938KCncS3WOeLg-36TwXivdZggF3U93SYNh6J7vLEMvhAGqGdLklI57pZn7DQOvL3_u-mMA?auto=format&w=1920' />
           </div>
           <div className='tf-r-diamond-item' absolute-center>
             <img className='tf-r-diamond-img' 
             alt='diamond-banner' 
-            src='https://i.seadn.io/gcs/files/c94e4322ce56aeaf726d0946e33a11a6.gif?auto=format&w=128&h=128' />
+            src='https://i.seadn.io/gae/SygdTBiSbzKa1bwb6zW-1v_4PwqFvUP1p9mT66DrBIwXMyYXP9g8iFGgR06aJQdnPBHZKTa3dAvqK5Jeb7CHxMpk4-VWa_c-JPcmTA?auto=format&w=384' />
           </div>
           <div className='tf-r-diamond-item' absolute-center>
             <img className='tf-r-diamond-img' 
             alt='diamond-banner' 
-            src='https://i.seadn.io/gcs/files/5a63d1481e61b12937305b2d5fdae5b2.gif?auto=format&w=128&h=128' />
+            src='https://i.seadn.io/gae/-8hEzciN7Dz2EhiKAeWOPu2NSmsFwrmHxvZU2xcCuVOQ3LDvD0XVWUkE4-u7cris-2229w3D_LotcDnVogS3m-t7-EYwon-qOJ3zfA?auto=format&w=384' />
           </div>
         </div>
       </div>
