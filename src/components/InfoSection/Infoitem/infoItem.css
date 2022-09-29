@@ -1,0 +1,21 @@
+.info-item{
+    flex-direction: column; 
+    text-align: center;
+    margin: 0px 28px;
+    width: 40%;
+}
+
+.li-icon{
+    width: 60px;
+}
+
+.li-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 18px;
+}
+
+.li-description{
+    margin-top: 18px;
+    font-size: 12px;
+}

@@ -1,5 +1,58 @@
 export const TRENDING_NFTS = [
     {
         id: 1,
-    }
+        banner: "https://i.seadn.io/gae/Yjf738wM-Z24RXJcrS15Q0h_MTa6DGPDGGfR3tj407naBdubMQeKiGZlhIPs0YR3qBsYFQHZGyVNi5FgJHsPwMLMoDfQiZHPaB3vpqo?auto=format&w=384",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gcs/files/6ee2b076281e1a98f0d70fea4efe7d84.gif?auto=format&w=128",
+    },
+    {
+        id: 2,
+        banner: "https://i.seadn.io/gae/cb_wdEAmvry_noTfeuQzhqKpghhZWQ_sEhuGS9swM03UM8QMEVJrndu0ZRdLFgGVqEPeCUzOHGTUllxug9U3xdvt0bES6VFdkRCKPqg?auto=format&w=1920",
+        userhandle: "totalcooldude",
+        user_name: "Cool Dude Collector",
+        user_photo: "https://i.seadn.io/gcs/files/c94e4322ce56aeaf726d0946e33a11a6.gif?auto=format&w=128",
+    },
+    {
+        id: 3,
+        banner: "https://i.seadn.io/gcs/files/bc48294feea32be3d67507e198bbd42d.jpg?auto=format&w=1920",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gae/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1?auto=format&w=128",
+    },
+    {
+        id: 4,
+        banner: "https://i.seadn.io/gae/8QES4SIIQfIeeuIC50MY5ECPXYZDVB2ZaK82uZ7rHJxamQV6OTmR4qCZnPItNBowhLFAQ2nab8nvHpvvnZaRN4UxZzk1_3DhjQiyEw?auto=format&w=1920",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gae/gjOExI2qNNJuv6fo4hmHamRzDMRLkYPFQtK4d67GE3bgdVJCyZngUwY_h6qp9244pp7l_pF2JBHtOJ8cLgzFbulxMK-KqlZnu9E1sg?auto=format&w=128",
+    },
+    {
+        id: 5,
+        banner: "https://i.seadn.io/gae/SnWn93Jk9n3YxBe2tom8kexcylvMN6rkFxlvDPX1xkvt6BAMJH_CfVyHcurzG8yZWVLU0fYcBxGC3svdcXmi4nev2QTfCe32aRX5AA?auto=format&w=384",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gcs/files/9fcf145b853ad886cd82b5d3c449c052.png?auto=format&w=128",
+    },
+    {
+        id: 6,
+        banner: "https://i.seadn.io/gae/LH7JPw-86H45P9Ee8Mcj-NqC3dVn5U51kiivBRL6qu4OPZS1iRek3nXoSkdASGRLDN6R2qLn62U6ZGQV2PtXo1J4KFGGd-QjfTgXzw?auto=format&w=384",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gae/Hw6Zs9msqM-bN7frloghQL41uNfEE1AMJg6iHwyjMOXed-oxFwGXyvmfpOHrebZRT9UXjjcNFOvKO3nvtvG807tlCZsY07kuMHRWAio?auto=format&w=128",
+    },
+    {
+        id: 7,
+        banner: "https://i.seadn.io/gae/kPCWs4Kk8cp8reOwGLS4qaN0uP4dc6P5676Ke5tSHzQlylH9dMump0sFerjUhafi_KfgEWxf6N2VyFTJT_UnRe4EuUfDVanaLU1dVA?auto=format&w=384",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gcs/files/26d741e8d2399adcee32dc05c965b4d6.png?auto=format&w=128",
+    },
+    {
+        id: 8,
+        banner: "https://i.seadn.io/gcs/files/385618e0746df4d457aa5ebc5dcfd08b.jpg?auto=format&w=1920",
+        userhandle: "randomguy",
+        user_name: "Coleção NFT aleatória",
+        user_photo: "https://i.seadn.io/gcs/files/3a42f1f2262ceb923a6b4064f1424952.jpg?auto=format&w=128",
+    },
 ]

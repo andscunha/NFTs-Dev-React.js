@@ -20,3 +20,11 @@
     left: 50%;
     transform: translate(-50%);
 }
+
+.tn-btn{
+    margin-top: 30px;
+}
+
+.vermais-btn{
+    font-size: 14px;
+}

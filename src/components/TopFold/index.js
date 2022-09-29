@@ -49,7 +49,7 @@ const TopFold = () => {
           <div className='tf-r-diamond-item' absolute-center>
             <img className='tf-r-diamond-img' 
             alt='diamond-banner' 
-            src='https://i.seadn.io/gae/-8hEzciN7Dz2EhiKAeWOPu2NSmsFwrmHxvZU2xcCuVOQ3LDvD0XVWUkE4-u7cris-2229w3D_LotcDnVogS3m-t7-EYwon-qOJ3zfA?auto=format&w=384' />
+            src='https://i.seadn.io/gcs/files/ee14c01f83c1fbf379962a57969bf9d9.gif?auto=format&w=1920' />
           </div>
         </div>
       </div>

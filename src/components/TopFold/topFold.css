@@ -80,14 +80,14 @@
 }
 
 .tf-r-bg-blob{
-    height: 350px;
-    width: 350px;
+    height: 270px;
+    width: 200px;
     background-color: var(--bg-blob);
     filter: blur(160.58px);
     position: absolute;
     z-index: -99;
     left: 20%;
     top: 10%;
-    transform: translate(-50%);
+    transform: translate(-100%);
 
 }
